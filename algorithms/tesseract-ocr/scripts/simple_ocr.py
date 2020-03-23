@@ -75,8 +75,9 @@ if __name__ == '__main__':
     # parameters
     # -------------------
 
-    # image = '../images/monitors/11.tiff'  # path to input image
-    image = '../images/monitors/11_cut.tiff'  # path to input image
+    # image = '../images/example_03.jpg'  # path to input image
+    image = '../images/monitors/11.tiff'  # path to input image
+    # image = '../images/monitors/11_cut.tiff'  # path to input image
 
     east = '../models/frozen_east_text_detection.pb'  # path to input EAST text detector
 
