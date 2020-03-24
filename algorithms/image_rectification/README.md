@@ -1,6 +1,6 @@
 # Automated Rectification of Image
 
-Modified from (this repository)[https://github.com/chsasank/Image-Rectification].
+Modified from [this repository](https://github.com/chsasank/Image-Rectification).
 
 Implements the modified version of the following paper:  
 
