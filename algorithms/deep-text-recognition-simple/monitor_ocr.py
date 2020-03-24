@@ -11,7 +11,6 @@ from model import Model
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-
 def set_parameters():
 
     parser = argparse.ArgumentParser()
