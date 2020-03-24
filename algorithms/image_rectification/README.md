@@ -1,5 +1,7 @@
 # Automated Rectification of Image
 
+Modified from (this repository)[https://github.com/chsasank/Image-Rectification].
+
 Implements the modified version of the following paper:  
 
 [Chaudhury, Krishnendu, Stephen DiVerdi, and Sergey Ioffe. "Auto-rectification
