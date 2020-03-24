@@ -17,5 +17,5 @@ pip3 install -r requirements.txt
 ```
 ### Run demo with pretrained model
 
-1. Download pretrained model ```TPS-ResNet-BiLSTM-Attn.pth``` from [here](https://drive.google.com/drive/folders/15WPsuPJDCzhp2SvYZLRj8mAlT3zmoAMW) to the pre trained folder in ```deep-text-recognition-benchmark\PreTrained```
+1. Download pretrained model ```TPS-ResNet-BiLSTM-Attn.pth``` from [here](https://ln2.sync.com/dl/7f6e682f0/arjtw338-hdw6h6n7-8x74fr8k-72iq2mg6) to the pre trained folder in ```deep-text-recognition-benchmark\PreTrained```
 2. From ```deep-text-recognition-benchmark\PreTrained``` run ``` python monitor_ocr.py```
